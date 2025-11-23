@@ -1,2 +1,1 @@
-# JordiAdriTomeuTJAGym
-Contenido TJA Gym
+.
